@@ -1,0 +1,60 @@
+.maindivlogin {
+
+
+                width: 40vw;
+                margin-top: 4%;
+                margin-left: auto;
+                margin-right: auto;
+}
+
+.card-header {
+
+
+
+                background: rgb(34, 193, 195);
+                background: linear-gradient(100deg, rgba(34, 193, 195, 1) 0%, rgba(45, 120, 253, 1) 100%);
+                font-weight: bold;
+                font-size: 24px;
+                color: white
+}
+
+.buttonlogin {
+
+                background: rgb(34, 193, 195);
+                background: linear-gradient(100deg, rgba(34, 193, 195, 1) 0%, rgba(45, 253, 149, 1) 100%);
+
+                font-weight: bold !important;
+                font-size: 18px !important;
+                color: white;
+}
+
+.buttonsubmit {
+
+
+                background: rgb(34, 193, 195);
+                background: linear-gradient(100deg, rgba(34, 193, 195, 1) 0%, rgba(45, 120, 253, 1) 100%);
+                font-weight: bold !important;
+                font-size: 18px !important;
+                color: white
+}
+
+
+#submitform{
+
+
+                display: none;
+}
+
+#alert{
+
+                display: none;
+}
+
+.loginnav{
+
+
+                position:fixed;
+                top:0;
+                background-color:white;
+                width:100vw;
+}

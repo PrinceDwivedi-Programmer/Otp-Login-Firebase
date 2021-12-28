@@ -1,0 +1,52 @@
+.navbar {
+
+
+}
+
+.fishoppingcart{
+
+
+
+                color:tomato;
+                margin-right: 8px;
+}
+
+
+.login{
+
+
+     
+}
+.signup{
+
+                margin-left:10px
+}
+
+.navbrand{
+
+                text-decoration: none;
+                color:black
+                
+}
+
+
+.navbrand:hover{
+
+                color:tomato
+}
+
+.navlinkitem{
+
+font-size: 18px !important;
+font-weight: bold !important;
+margin-left:10px !important;
+
+}
+
+
+.btnlogout{
+
+
+                margin-left: 20px !important;
+}
+
